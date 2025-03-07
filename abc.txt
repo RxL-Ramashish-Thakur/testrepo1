@@ -1,2 +1,4 @@
 this is file made after that linking using Htppps is not working 
+linking with https is not resolve but 
+linking through ssh is working fine
 `
