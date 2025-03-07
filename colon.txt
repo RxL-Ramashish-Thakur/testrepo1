@@ -1,0 +1,4 @@
+we can clone any repo using ssh key link not repo link 
+after clone is succesful then pushing can be done because pulling and cloning requst is present 
+already acess is given at the time of cloneing 
+`:
