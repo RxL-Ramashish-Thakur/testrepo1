@@ -1,0 +1,3 @@
+this is second file is made
+using this file i check 
+git commit -m "message" can run without -m flag
