@@ -1,0 +1,9 @@
+git commit -m "meesssage"
+here -m : help to write commit message here only without opning the new edi`
+editor window
+git branch -m main 
+here -m: it help to replace default name to user branch name 
+git push -u origin main
+here -u: it help to alisse origin main 
+it help to avoid to write origin main every time 
+now we can push only by git push only 
